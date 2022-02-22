@@ -1,0 +1,25 @@
+.NextSeasonRoot {
+  text-align: center;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+}
+h5 {
+  margin: 0;
+}
+
+.imageNextSeason {
+  width: 200px;
+  border-top: 30%;
+}
+
+img {
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+}
+
+.NextSeasonContentText {
+  padding: 10px;
+}

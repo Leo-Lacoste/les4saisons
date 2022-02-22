@@ -1,0 +1,32 @@
+{
+  "saisons": [
+    {
+      "nom": "Hiver",
+      "next": "Printemps",
+      "dateDebut": "21/12/2021",
+      "dateFin": "19/03/2022",
+      "image": "https://cdn.pixabay.com/photo/2020/02/08/14/36/trees-4830285_1280.jpg"
+    },
+    {
+      "nom": "Printemps",
+      "next": "Été",
+      "dateDebut": "20/03/2022",
+      "dateFin": "20/06/2022",
+      "image": "https://cdn.pixabay.com/photo/2014/12/04/14/46/magnolia-trees-556718_1280.jpg"
+    },
+    {
+      "nom": "Été",
+      "next": "Automne",
+      "dateDebut": "21/06/2022",
+      "dateFin": "22/09/2022",
+      "image": "https://cdn.pixabay.com/photo/2017/10/10/07/48/beach-2836300_1280.jpg"
+    },
+    {
+      "nom": "Automne",
+      "next": "Hiver",
+      "dateDebut": "23/09/2022",
+      "dateFin": "20/12/2022",
+      "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_1280.jpg"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+// Instructions pour faire l'exercice
+
+    - Librairie pour formatage des dates + méthodes sur celle-ci (différence entre deux date, récupération du mois, etc)
+    - Ajouter des images en fonction de la saison
+    - Modal à faire pour la saison suivante
+    - Si le temps et ressources pour le faire : faire en sorte que de connecter l'app avec une API de saisons pour obtenir
+        la date/ saison actuelle et celle suivante

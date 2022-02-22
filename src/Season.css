@@ -1,0 +1,17 @@
+.SeasonRoot {
+  text-align: center;
+}
+
+.imageSeason {
+  width: 200px;
+  border-top: 30%;
+}
+
+img {
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+}
+
+.SeasonContentText {
+  padding: 10px;
+}
